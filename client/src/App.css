@@ -1,0 +1,80 @@
+.container {
+    margin: auto;
+    overflow: hidden;
+    padding: 0 2rem;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .landing {
+    position: relative;
+    height: 100vh;
+  }
+  
+  .landing-inner {
+    color: #fff;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+  .date{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .x-large {
+    font-size: 4rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color:black;
+  }
+
+  .lead {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  #bl {
+      margin-right: 10px;
+  }
+
+  #br {
+      margin-left: 10px;
+  }
+
+  .buttons{
+      margin-bottom: 20px;
+  }
+
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .title {
+      margin-bottom: 15px;
+  }
+
+ 
